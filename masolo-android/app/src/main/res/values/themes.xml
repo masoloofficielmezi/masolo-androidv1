@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Masolo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/masolo_blue</item>
+        <item name="colorPrimaryDark">@color/masolo_blue</item>
+        <item name="colorAccent">@color/masolo_sand</item>
+        <item name="android:windowBackground">@color/masolo_grey</item>
+        <item name="android:statusBarColor">@color/masolo_blue</item>
+        <item name="android:navigationBarColor">@color/masolo_blue</item>
+    </style>
+</resources>
