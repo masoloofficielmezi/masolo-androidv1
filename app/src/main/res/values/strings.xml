@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Masolo</string>
+    <string name="download_started">Téléchargement en cours…</string>
+    <string name="download_failed">Téléchargement impossible</string>
+</resources>
